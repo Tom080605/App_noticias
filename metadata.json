@@ -1,0 +1,5 @@
+{
+  "name": "Daily News Bubble",
+  "description": "A daily briefing assistant that floats like a bubble, offering up-to-date news summaries on any topic using Google Search Grounding.",
+  "requestFramePermissions": []
+}
